@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331964925865",
+    "project_id": "wordofday-d5415",
+    "storage_bucket": "wordofday-d5415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331964925865:android:02744620102144e0b5a6b8",
+        "android_client_info": {
+          "package_name": "com.example.thewordoftheday"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-2cuW2zRizuvWNldyaxd-y76RMtZfdus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
